@@ -48,7 +48,7 @@ Param(
     [ValidatePattern('.paket$')]
     [string]$Paket = ".\.paket",
     [ValidatePattern('Cake.exe$')]
-    [string]$Cake = ".\packages\Cake\Cake.exe",
+    [string]$Cake = ".\packages\Build\Cake\Cake.exe",
     [string]$Target = "Default",
     [ValidateSet("Release", "Debug")]
     [string]$Configuration = "Release",

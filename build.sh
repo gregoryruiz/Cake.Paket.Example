@@ -11,7 +11,7 @@
 # Define default arguments.
 SCRIPT="build.cake"
 PAKET="./.paket"
-CAKE="./packages/Cake/Cake.exe"
+CAKE="./packages/Build/Cake/Cake.exe"
 TARGET="Default"
 CONFIGURATION="Release"
 VERBOSITY="verbose"

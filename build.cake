@@ -1,4 +1,4 @@
-#r "./packages/Cake.Figlet/lib/net45/Cake.Figlet.dll"
+#r "./packages/Build/Cake.Figlet/lib/net45/Cake.Figlet.dll"
 
 //////////////////////////////////////////////////////////////////////
 // ARGUMENTS
