@@ -1,7 +1,7 @@
 
 
 GROUP Build
-FRAMEWORK: NET45
+FRAMEWORK: NET461
 NUGET
   remote: https://www.nuget.org/api/v2
     Cake (0.16.1)
@@ -10,7 +10,7 @@ NUGET
       Cake.Core (>= 0.14)
 
 GROUP Test
-FRAMEWORK: NET45
+FRAMEWORK: NET461
 NUGET
   remote: https://www.nuget.org/api/v2
     NUnit (3.5)

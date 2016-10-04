@@ -1,12 +1,12 @@
 group Build
-    framework: net45
+    framework: net461
     source https://nuget.org/api/v2
 
     nuget Cake
     nuget Cake.Figlet
 
 group Test
-    framework: net45
+    framework: net461
     source https://nuget.org/api/v2
 
     nuget NUnit
